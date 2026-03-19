@@ -1,4 +1,8 @@
 # CFS 2.0: Causal Consistency Framework
+## What is CFS 2.0?
+
+CFS 2.0 is a causal consistency framework for cognitive flow control that integrates temporal structuring and network-based validation to ensure stable and fair outcomes in knowledge systems.
+
 # CFS 2.0
 
 **CFS 2.0: Cognitive Flow Control Through Deep Penetration and Temporal Causal Structuring**
