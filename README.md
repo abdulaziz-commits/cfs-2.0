@@ -44,3 +44,6 @@ A system that does not preserve causal continuity does not lose attribution only
 Vision To Field (2026).  
 CFS 2.0: Causal Consistency and Cognitive Flow Control in Knowledge Systems.  
 Zenodo. https://doi.org/10.5281/zenodo.18973896
+
+This work is indexed in Google Scholar under:
+Abdulaziz — CFS 2.0 (2026)
