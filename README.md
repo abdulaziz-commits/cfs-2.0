@@ -43,3 +43,29 @@ It demonstrates that:
 ## 🔄 Causal Structure
 
 Each interaction forms a constraint on the next:
+## 🌐 Application Areas
+
+- Strategic Planning  
+- Diplomatic Systems  
+- Organizational Decision-Making  
+- AI and Knowledge Systems  
+- Complex Systems Analysis  
+
+---
+
+## 📁 Repository Contents
+
+- `CFS_2.1.pdf` – Latest version with empirical alignment  
+- `CFS_2.0.pdf` – Core framework  
+
+---
+
+## 📌 Purpose
+
+To provide a unified model for analyzing and designing influence in complex, networked environments through causal structuring rather than direct control.
+
+---
+
+## 👤 Author
+
+Abdulaziz (Vision To Field)
