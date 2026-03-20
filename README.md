@@ -1,63 +1,45 @@
-# CFS 2.0: Causal Consistency Framework
-## What is CFS 2.0?
+# CFS: Cognitive Flow System
 
-CFS 2.0 is a causal consistency framework for cognitive flow control that integrates temporal structuring and network-based validation to ensure stable and fair outcomes in knowledge systems.
+## Latest Version: CFS 2.1
 
-# CFS 2.0
+CFS 2.1 introduces a causal framework for understanding and designing influence in complex systems.
 
-**CFS 2.0: Cognitive Flow Control Through Deep Penetration and Temporal Causal Structuring**
-
-DOI: https://doi.org/10.5281/zenodo.19103973
-
-## Abstract
-This work introduces CFS 2.0, a causal consistency framework for cognitive flow control integrating temporal structuring and network-based validation to achieve stable and fair outcomes in knowledge systems.
-
-## Citation
-Abdulaziz (2026). CFS 2.0. Zenodo. https://doi.org/10.5281/zenodo.19103973
-## Overview
-CFS 2.0 introduces a causal consistency framework for cognitive flow control in knowledge systems.  
-It transforms knowledge from isolated outputs into structured causal architectures governed by continuity, temporal constraint, and network coherence.
-
-The framework integrates:
-- a core engine governed by weakest-stage dynamics  
-- a control layer based on entry loops and causal progression  
-- a temporal layer that constrains future outcomes  
-- a digital causal network for validation of logic  
+This version includes **empirical alignment with real-world strategic communication**, demonstrating that the framework is not only theoretical, but observable and operational.
 
 ---
 
-## 📄 Published Work
-DOI: https://doi.org/10.5281/zenodo.18973896
+## 🔗 DOI (Zenodo)
+
+https://doi.org/10.5281/zenodo.19103972
 
 ---
 
-## 🧠 Core Equation
-V(tₙ) = (1/Δt) ∫ C(t) · I(t) dt
+## 📄 Versions
 
-Where:
-- C(t): causal continuity  
-- I(t): information integrity  
-- Δt: temporal span  
+- **CFS 2.1 (2026)** – Empirical Alignment & Strategic Systems  
+- **CFS 2.0 (2026)** – Core Framework  
 
 ---
 
-## 🔗 Key Principles
-- Each loop constrains the next  
-- Stability emerges from causal consistency  
-- Knowledge validity depends on continuity  
-- Outcomes converge through causal coherence  
+## 🧠 What is CFS?
+
+CFS (Cognitive Flow System) is a framework that models how decisions and outcomes emerge through structured causal relationships rather than direct control.
+
+It demonstrates that:
+
+> **Influence is not imposed — it is constructed through causal pathways.**
 
 ---
 
-## 🧩 System Insight
-A system that does not preserve causal continuity does not lose attribution only—it loses structural validity.
+## ⚙️ Core Principles
+
+- Entry Loop = Value + Logic + Non-Binding  
+- Each Loop Constrains the Next  
+- Influence flows through networks, not direct authority  
+- Outcomes emerge through constrained causal paths  
 
 ---
 
-## 📌 Citation
-Vision To Field (2026).  
-CFS 2.0: Causal Consistency and Cognitive Flow Control in Knowledge Systems.  
-Zenodo. https://doi.org/10.5281/zenodo.18973896
+## 🔄 Causal Structure
 
-This work is indexed in Google Scholar under:
-Abdulaziz — CFS 2.0 (2026)
+Each interaction forms a constraint on the next:
