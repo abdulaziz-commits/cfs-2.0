@@ -68,4 +68,30 @@ To provide a unified model for analyzing and designing influence in complex, net
 
 ## 👤 Author
 
-Abdulaziz (Vision To Field)
+Abdulaziz (Vision To ---
+
+## ❓ FAQ
+
+### What is CFS 2.1?
+
+CFS 2.1 is a causal framework for understanding and designing influence in complex systems. It structures decision-making through causal relationships rather than direct control.
+
+---
+
+### How does CFS work?
+
+CFS works by constructing causal loops where each interaction constrains the next, progressively shaping the outcome through structured pathways.
+
+---
+
+### What makes CFS different?
+
+Unlike traditional models based on persuasion or authority, CFS operates through causal structuring and network-based influence, allowing outcomes to emerge naturally from system constraints.
+
+---
+
+### Where can CFS be applied?
+
+CFS can be applied in strategic planning, diplomacy, organizational systems, AI, and complex decision environments.
+
+---
