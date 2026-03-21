@@ -1,5 +1,11 @@
 # CFS: Cognitive Flow System
 
+# CFS 2.2 (2026)
+
+**A Causal Influence Framework for Strategic Systems — Application & Expansion**
+
+DOI: https://doi.org/10.5281/zenodo.19142077
+
 ## CFS 2.1 is a causal influence framework for strategic decision systems that explains how outcomes emerge through structured causal constraints rather than direct control.
 
 ---
