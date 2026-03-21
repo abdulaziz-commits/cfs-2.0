@@ -1,4 +1,4 @@
-# CFS: Cognitive Flow System
+CFS 2.1 is a causal influence framework for strategic decision systems.
 
 ## Latest Version: CFS 2.1
 
