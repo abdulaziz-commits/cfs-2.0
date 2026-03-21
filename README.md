@@ -1,10 +1,6 @@
-CFS 2.1 is a causal influence framework for strategic decision systems.
+# CFS: Cognitive Flow System
 
-## Latest Version: CFS 2.1
-
-CFS 2.1 introduces a causal framework for understanding and designing influence in complex systems.
-
-This version includes **empirical alignment with real-world strategic communication**, demonstrating that the framework is not only theoretical, but observable and operational.
+## CFS 2.1 is a causal influence framework for strategic decision systems that explains how outcomes emerge through structured causal constraints rather than direct control.
 
 ---
 
@@ -14,20 +10,18 @@ https://doi.org/10.5281/zenodo.19103972
 
 ---
 
-## 📄 Versions
+## 📄 Latest Version
 
-- **CFS 2.1 (2026)** – Empirical Alignment & Strategic Systems  
-- **CFS 2.0 (2026)** – Core Framework  
+**CFS 2.1 (2026)** – Empirical Alignment & Strategic Systems  
+**CFS 2.0 (2026)** – Core Framework  
 
 ---
 
-## 🧠 What is CFS?
+## 🧠 What is CFS 2.1?
 
-CFS (Cognitive Flow System) is a framework that models how decisions and outcomes emerge through structured causal relationships rather than direct control.
+CFS 2.1 is a causal framework for understanding and designing influence in complex systems. It models how decisions and outcomes emerge through structured causal relationships rather than direct control.
 
-It demonstrates that:
-
-> **Influence is not imposed — it is constructed through causal pathways.**
+> Influence is not imposed — it is constructed through causal pathways.
 
 ---
 
@@ -43,6 +37,8 @@ It demonstrates that:
 ## 🔄 Causal Structure
 
 Each interaction forms a constraint on the next:
+---
+
 ## 🌐 Application Areas
 
 - Strategic Planning  
@@ -55,8 +51,8 @@ Each interaction forms a constraint on the next:
 
 ## 📁 Repository Contents
 
-- `CFS_2.1.pdf` – Latest version with empirical alignment  
-- `CFS_2.0.pdf` – Core framework  
+- CFS_2.1.pdf – Latest version with empirical alignment  
+- CFS_2.0.pdf – Core framework  
 
 ---
 
@@ -68,30 +64,30 @@ To provide a unified model for analyzing and designing influence in complex, net
 
 ## 👤 Author
 
-Abdulaziz (Vision To ---
+Abdulaziz (Vision To Field)
+
+---
 
 ## ❓ FAQ
 
 ### What is CFS 2.1?
 
-CFS 2.1 is a causal framework for understanding and designing influence in complex systems. It structures decision-making through causal relationships rather than direct control.
+CFS 2.1 is a causal influence framework for strategic decision systems that explains how decisions are shaped through structured constraints rather than direct control.
 
 ---
 
 ### How does CFS work?
 
-CFS works by constructing causal loops where each interaction constrains the next, progressively shaping the outcome through structured pathways.
+CFS operates through sequential causal loops where each step constrains the next, progressively shaping the decision space until a stable outcome emerges.
 
 ---
 
 ### What makes CFS different?
 
-Unlike traditional models based on persuasion or authority, CFS operates through causal structuring and network-based influence, allowing outcomes to emerge naturally from system constraints.
+Unlike traditional models based on persuasion or authority, CFS uses causal structuring and network-based influence, allowing outcomes to emerge naturally from system constraints.
 
 ---
 
 ### Where can CFS be applied?
 
 CFS can be applied in strategic planning, diplomacy, organizational systems, AI, and complex decision environments.
-
----
