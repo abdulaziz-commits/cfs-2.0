@@ -97,3 +97,16 @@ Unlike traditional models based on persuasion or authority, CFS uses causal stru
 ### Where can CFS be applied?
 
 CFS can be applied in strategic planning, diplomacy, organizational systems, AI, and complex decision environments.
+
+## Example Application
+
+CFS can be applied to institutional decision-making systems.
+
+Example:
+A policy decision does not emerge from direct enforcement, but from a sequence of constraints:
+- Value alignment
+- Logical structuring
+- Network pressure
+- Outcome convergence
+
+This reflects how decisions become inevitable within structured systems.
