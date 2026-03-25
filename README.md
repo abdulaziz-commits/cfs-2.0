@@ -31,14 +31,14 @@ Influence is not imposed — it emerges.
 
 ## Case Study
 
-CFS applied to high-pressure geopolitical systems:
+CFS applied to high-pressure geopolitical systems:- 
 
 - Strategic Flow Convergence Case Study
 
 ## Book (In Progress)
 
 - Chapter 1 — Unified Flow–Constraint Model
-
+- Chapter 2 — Application: From Flow to Decision
 ---
 
 ## Versions
