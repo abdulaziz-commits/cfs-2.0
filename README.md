@@ -35,6 +35,10 @@ CFS applied to high-pressure geopolitical systems:
 
 - Strategic Flow Convergence Case Study
 
+## Book (In Progress)
+
+- Chapter 1 — Unified Flow–Constraint Model
+
 ---
 
 ## Versions
