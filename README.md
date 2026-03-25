@@ -39,6 +39,8 @@ CFS applied to high-pressure geopolitical systems:-
 
 - Chapter 1 — Unified Flow–Constraint Model
 - Chapter 2 — Application: From Flow to Decision
+- Chapter 3 — Strategic Use: From Understanding to Influence
+- Chapter 4 — System Failure & Collapse
 ---
 
 ## Versions
