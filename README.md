@@ -1,5 +1,16 @@
 # CFS: Cognitive Flow System
 
+
+CFS applied to high-pressure geopolitical systems:
+
+- Strategic Flow Convergence Case Study
+# Flow System Framework (FSF) — Standard v1.0
+
+A node-based capacity-demand model for analyzing system stability, bottlenecks, and flow dynamics.
+
+## DOI
+https://doi.org/10.5281/zenodo.19177169م
+
 # CFS 2.2 (2026)
 
 **A Causal Influence Framework for Strategic Systems — Application & Expansion**
