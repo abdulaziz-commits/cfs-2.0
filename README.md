@@ -2,7 +2,7 @@
 
 CFS is a causal framework for understanding how decisions emerge in complex systems through structured causal constraints rather than direct control.
 
-![CFS Flow](./cfs-flow.png)
+![CFS Flow](./cfs-flow.PNG)
 
 DOI (CFS 2.2):
 https://doi.org/10.5281/zenodo.19142077
