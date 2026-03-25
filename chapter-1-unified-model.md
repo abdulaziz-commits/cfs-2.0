@@ -28,16 +28,21 @@ These elements interact sequentially to transform system dynamics into decision 
 
 ---
 
-### 3. Flow (System Movement)
+### 3. ### 3. Flow (System Movement)
 
-Flow represents the movement within the system, including:
+Flow represents the movement within the system and operates across three interconnected layers:
 
-- Energy  
-- Capital  
-- Information  
-- Logistics  
+- Physical Flow: movement of energy, materials, and logistics  
+- Informational Flow: movement of data, signals, and decisions  
+- Human Flow: movement of behavior, actions, and decision execution  
 
-Without flow, no system exists. Flow defines the system’s activity and connectivity.
+Human flow is the layer through which system dynamics materialize into reality.  
+While physical and informational flows define system structure, human flow carries and executes outcomes.
+
+In complex systems, constraints do not act directly on outcomes —  
+they shape human flow, which in turn transforms system conditions.
+
+> Flow moves the system, but human flow realizes the outcome.
 
 ---
 
